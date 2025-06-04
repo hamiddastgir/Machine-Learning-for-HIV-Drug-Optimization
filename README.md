@@ -110,7 +110,7 @@ This repository contains code and resources for analyzing and optimizing HIV tre
 For questions or further information, please contact:
 
 Muhammad Hamid Ahmed Dastgir
-Email: mdastgir@stevens.edu
+Email: hamiddastgirwork@gmail.com
 LinkedIn: linkedin.com/in/hamiddastgir
 
 ## Acknowlegements
